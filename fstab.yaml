@@ -1,7 +1,7 @@
 mountpoints:
-/docs:
+/:
    url:"https://drive.google.com/drive/folders/1mymVr1IDgaok1OeW9ch3Dp_oWFADMxFx"
-  /adobe:
-    url: "https://author-p130360-e1272151.adobeaemcloud.com/bin/franklin.delivery/EswarBodduri/eds-demo/main"
-    type: "markup"
-    suffix: ".html"
+  # /adobe:
+  #   url: "https://author-p130360-e1272151.adobeaemcloud.com/bin/franklin.delivery/EswarBodduri/eds-demo/main"
+  #   type: "markup"
+  #   suffix: ".html"
