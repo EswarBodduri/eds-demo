@@ -2,6 +2,6 @@ mountpoints:
 # /docs:
 #    url:"https://drive.google.com/drive/folders/1mymVr1IDgaok1OeW9ch3Dp_oWFADMxFx"
   /:
-    url: "https://author-p130360-e1272151.adobeaemcloud.com/bin/franklin.delivery/EswarBodduri/eds-demo/main"
+    url: "https://author-p127163-e1239520.adobeaemcloud.com/bin/franklin.delivery/EswarBodduri/eds-demo/main"
     type: "markup"
     suffix: ".html"
